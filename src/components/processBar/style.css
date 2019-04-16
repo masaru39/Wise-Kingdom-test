@@ -1,0 +1,41 @@
+.processBox {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
+.processBar {
+  margin: auto;
+  display: block;
+  width: 80%;
+}
+
+.outbar {
+  background-color: #e7e8e9;
+  height: 15px;
+  width: 500px;
+  border-radius: 25px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.inbar {
+  background-color: #74f9b9;
+  height: 15px;
+  border-radius: 25px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.exitButton {
+  height: 20px;
+  width: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 25px;
+  background-color: #ba0e0a;
+  color: #ffffff;
+  display: inline-block;
+}

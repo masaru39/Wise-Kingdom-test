@@ -1,0 +1,57 @@
+.modal {
+  background-color: #2c72fe;
+  color: #ffffff;
+  width: 300px;
+  margin: auto;
+  margin-top: 100px;
+  padding: 5px;
+}
+
+.close {
+  height: 20px;
+  margin-left: 205px;
+}
+
+.text {
+  margin: auto;
+  text-align: center;
+  width: 150px;
+}
+
+.score {
+  text-align: center;
+  font-size: 20px;
+}
+
+.earn {
+  font-size: 40px;
+}
+
+.button {
+  background-color: #ecad33;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 30px;
+  width: 150px;
+  padding-top: 10px;
+  border-radius: 25px;
+}
+
+.star-div {
+  width: 150px;
+}
+
+.star1 {
+  height: 30px;
+}
+
+.star2 {
+  height: 30px;
+  margin: 10px;
+}
+
+.think {
+  height: 20px;
+  padding-right: 5px;
+}
